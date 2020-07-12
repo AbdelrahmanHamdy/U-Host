@@ -59,9 +59,10 @@ color: #979797;
     padding: 1rem;
     border: 1px solid #0e4f1f;
     color: #0e4f1f;
-    font-size: 1.2rem;
+    /* font-size: 1.2rem; */
     background: white;
-    font-family: "AnonymousPro",sans-serif;
+    /* font-family: "AnonymousPro",sans-serif; */
+    font: 700 1.2rem "AnonymousPro",sans-serif; 
 }
 
 .clearfix{
